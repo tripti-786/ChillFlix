@@ -1,7 +1,6 @@
 # ChillFlix - The Movie Recommender
 A web application that suggests you movies of your choice. </br>
 This project is a part of Microsoft Intern Engage 2022.</br>
-Application can be accessed at: https://chillflix-the-recommender.herokuapp.com/ </br>
 ### Note:
 The recommendation part developed by me in this web application doesn't support multi-language movies as it consumes 200% of RAM for generating Count Vectorizer matrix for all the 700,000+ movies in the TMDB. </br>
 It only gives suggestions for hollywood movies.
